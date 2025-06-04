@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\jago da velha com Windows form\bin\Debug\net8.0-windows\jago da velha com Windows form.exe
+C:\Users\user\source\repos\jago da velha com Windows form\bin\Debug\net8.0-windows\jago da velha com Windows form.deps.json
+C:\Users\user\source\repos\jago da velha com Windows form\bin\Debug\net8.0-windows\jago da velha com Windows form.runtimeconfig.json
+C:\Users\user\source\repos\jago da velha com Windows form\bin\Debug\net8.0-windows\jago da velha com Windows form.dll
+C:\Users\user\source\repos\jago da velha com Windows form\bin\Debug\net8.0-windows\jago da velha com Windows form.pdb
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago_da_velha_com_Windows_form.Form1.resources
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago da velha com Windows form.csproj.GenerateResource.cache
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago da velha com Windows form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago da velha com Windows form.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago da velha com Windows form.AssemblyInfo.cs
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago da velha com Windows form.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago da velha com Windows form.dll
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\refint\jago da velha com Windows form.dll
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago da velha com Windows form.pdb
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\jago da velha com Windows form.genruntimeconfig.cache
+C:\Users\user\source\repos\jago da velha com Windows form\obj\Debug\net8.0-windows\ref\jago da velha com Windows form.dll
